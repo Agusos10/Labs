@@ -7,6 +7,7 @@ Documented IT and security lab write-ups: guided certification labs and custom h
 | Lab | Focus | Tools |
 |---|---|---|
 | [Windows Server 2019 Gap Analysis with Policy Analyzer](./Guided_Labs/Windows_Server_2019_Gap_Analysis_Policy_Analyzer) | Compared a Windows Server 2019 host to the Microsoft v1809 security baseline and documented remediation for non-compliant settings | Policy Analyzer, Microsoft Security Compliance Toolkit, PowerShell |
+| [Configure and Test Preventive and Detective Controls](./Guided_Labs/Configure_and_Test_Preventive_and_Detective_Controls) | Hardened an SMB share ACL to block non-administrators and enabled file deletion auditing, validated with Event IDs 4660 and 4663 | NTFS/SMB Permissions, Local Security Policy, Event Viewer |
 
 ## Repository Structure
 
