@@ -50,8 +50,5 @@ Compared the effective configuration of a Windows Server 2019 host (PC10) agains
 - Third-party baselines require scoping and tailoring to the organization's risk profile and business goals.
 - Policy Analyzer's View / Compare shows intent; Compare to Effective State shows reality. Both are required to quantify the gap.
 
-## Certification Mapping
-Applies to: CompTIA Security+ SY0-701 Objective 4.1 (secure baselines: establish, deploy, maintain).
-
 ## Skills & Technologies
 Gap Analysis, Security Baselines, Configuration Management, Configuration Drift Detection, Microsoft Security Compliance Toolkit, Policy Analyzer, Group Policy, Windows Server 2019, Account Lockout Policy, Password Policy, PowerShell, Hardening, Compliance Auditing
